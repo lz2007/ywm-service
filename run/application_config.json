@@ -88,26 +88,26 @@
     "onerror": {
       "errorPageUrl": "",
       "appErrorFilter": null,
-      "templatePath": "F:\\yyw\\service\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\lib\\onerror_page.mustache"
+      "templatePath": "F:\\ywm-service\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\lib\\onerror_page.mustache"
     },
     "i18n": {
       "defaultLocale": "en_US",
       "dirs": [
-        "F:\\yyw\\service\\node_modules\\_egg-session@3.1.0@egg-session\\config\\locales",
-        "F:\\yyw\\service\\node_modules\\_egg-security@2.7.1@egg-security\\config\\locales",
-        "F:\\yyw\\service\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\locales",
-        "F:\\yyw\\service\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\locales",
-        "F:\\yyw\\service\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\locales",
-        "F:\\yyw\\service\\node_modules\\_egg-watcher@3.1.0@egg-watcher\\config\\locales",
-        "F:\\yyw\\service\\node_modules\\_egg-schedule@3.6.4@egg-schedule\\config\\locales",
-        "F:\\yyw\\service\\node_modules\\_egg-multipart@2.10.1@egg-multipart\\config\\locales",
-        "F:\\yyw\\service\\node_modules\\_egg-development@2.4.3@egg-development\\config\\locales",
-        "F:\\yyw\\service\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\locales",
-        "F:\\yyw\\service\\node_modules\\_egg-static@2.2.0@egg-static\\config\\locales",
-        "F:\\yyw\\service\\node_modules\\_egg-view@2.1.2@egg-view\\config\\locales",
-        "F:\\yyw\\service\\node_modules\\_egg-socket.io@4.1.6@egg-socket.io\\config\\locales",
-        "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\locales",
-        "F:\\yyw\\service\\config\\locales"
+        "F:\\ywm-service\\node_modules\\_egg-session@3.1.0@egg-session\\config\\locales",
+        "F:\\ywm-service\\node_modules\\_egg-security@2.7.1@egg-security\\config\\locales",
+        "F:\\ywm-service\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\locales",
+        "F:\\ywm-service\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\locales",
+        "F:\\ywm-service\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\locales",
+        "F:\\ywm-service\\node_modules\\_egg-watcher@3.1.0@egg-watcher\\config\\locales",
+        "F:\\ywm-service\\node_modules\\_egg-schedule@3.6.4@egg-schedule\\config\\locales",
+        "F:\\ywm-service\\node_modules\\_egg-multipart@2.10.1@egg-multipart\\config\\locales",
+        "F:\\ywm-service\\node_modules\\_egg-development@2.4.3@egg-development\\config\\locales",
+        "F:\\ywm-service\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\locales",
+        "F:\\ywm-service\\node_modules\\_egg-static@2.2.0@egg-static\\config\\locales",
+        "F:\\ywm-service\\node_modules\\_egg-view@2.1.2@egg-view\\config\\locales",
+        "F:\\ywm-service\\node_modules\\_egg-socket.io@4.1.6@egg-socket.io\\config\\locales",
+        "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\locales",
+        "F:\\ywm-service\\config\\locales"
       ],
       "queryField": "locale",
       "cookieField": "locale",
@@ -118,8 +118,8 @@
     "watcher": {
       "type": "development",
       "eventSources": {
-        "default": "F:\\yyw\\service\\node_modules\\_egg-watcher@3.1.0@egg-watcher\\lib\\event-sources\\default",
-        "development": "F:\\yyw\\service\\node_modules\\_egg-watcher@3.1.0@egg-watcher\\lib\\event-sources\\development"
+        "default": "F:\\ywm-service\\node_modules\\_egg-watcher@3.1.0@egg-watcher\\lib\\event-sources\\default",
+        "development": "F:\\ywm-service\\node_modules\\_egg-watcher@3.1.0@egg-watcher\\lib\\event-sources\\development"
       }
     },
     "customLogger": {
@@ -165,14 +165,14 @@
     },
     "static": {
       "prefix": "/public/",
-      "dir": "F:\\yyw\\service\\app\\public",
+      "dir": "F:\\ywm-service\\app\\public",
       "dynamic": true,
       "preload": false,
       "buffer": false,
       "maxFiles": 1000
     },
     "view": {
-      "root": "F:\\yyw\\service\\app\\view",
+      "root": "F:\\ywm-service\\app\\view",
       "cache": false,
       "defaultExtension": ".html",
       "defaultViewEngine": "",
@@ -211,7 +211,8 @@
       "dependencies": {
         "egg": "^2.15.1",
         "egg-scripts": "^2.11.0",
-        "egg-socket.io": "^4.1.6"
+        "egg-socket.io": "^4.1.6",
+        "os-utils": "^0.0.14"
       },
       "devDependencies": {
         "autod": "^3.0.1",
@@ -247,9 +248,9 @@
       "author": "",
       "license": "MIT"
     },
-    "baseDir": "F:\\yyw\\service",
+    "baseDir": "F:\\ywm-service",
     "HOME": "C:\\Users\\Administrator",
-    "rundir": "F:\\yyw\\service\\run",
+    "rundir": "F:\\ywm-service\\run",
     "dump": {
       "ignore": "<Set>"
     },
@@ -281,7 +282,7 @@
       "returnRawBody": true
     },
     "logger": {
-      "dir": "F:\\yyw\\service\\logs\\service",
+      "dir": "F:\\ywm-service\\logs\\service",
       "encoding": "utf8",
       "env": "local",
       "level": "INFO",
@@ -374,8 +375,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\plugin.js",
-      "path": "F:\\yyw\\service\\node_modules\\_egg-session@3.1.0@egg-session",
+      "from": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\plugin.js",
+      "path": "F:\\ywm-service\\node_modules\\_egg-session@3.1.0@egg-session",
       "version": "3.1.0"
     },
     "security": {
@@ -387,8 +388,8 @@
         "session"
       ],
       "env": [],
-      "from": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\plugin.js",
-      "path": "F:\\yyw\\service\\node_modules\\_egg-security@2.7.1@egg-security",
+      "from": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\plugin.js",
+      "path": "F:\\ywm-service\\node_modules\\_egg-security@2.7.1@egg-security",
       "version": "2.7.1"
     },
     "jsonp": {
@@ -400,8 +401,8 @@
         "security"
       ],
       "env": [],
-      "from": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\plugin.js",
-      "path": "F:\\yyw\\service\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp",
+      "from": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\plugin.js",
+      "path": "F:\\ywm-service\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp",
       "version": "2.0.0"
     },
     "onerror": {
@@ -413,8 +414,8 @@
         "jsonp"
       ],
       "env": [],
-      "from": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\plugin.js",
-      "path": "F:\\yyw\\service\\node_modules\\_egg-onerror@2.1.0@egg-onerror",
+      "from": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\plugin.js",
+      "path": "F:\\ywm-service\\node_modules\\_egg-onerror@2.1.0@egg-onerror",
       "version": "2.1.0"
     },
     "i18n": {
@@ -424,8 +425,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\plugin.js",
-      "path": "F:\\yyw\\service\\node_modules\\_egg-i18n@2.1.1@egg-i18n",
+      "from": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\plugin.js",
+      "path": "F:\\ywm-service\\node_modules\\_egg-i18n@2.1.1@egg-i18n",
       "version": "2.1.1"
     },
     "watcher": {
@@ -435,8 +436,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\plugin.js",
-      "path": "F:\\yyw\\service\\node_modules\\_egg-watcher@3.1.0@egg-watcher",
+      "from": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\plugin.js",
+      "path": "F:\\ywm-service\\node_modules\\_egg-watcher@3.1.0@egg-watcher",
       "version": "3.1.0"
     },
     "schedule": {
@@ -446,8 +447,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\plugin.js",
-      "path": "F:\\yyw\\service\\node_modules\\_egg-schedule@3.6.4@egg-schedule",
+      "from": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\plugin.js",
+      "path": "F:\\ywm-service\\node_modules\\_egg-schedule@3.6.4@egg-schedule",
       "version": "3.6.4"
     },
     "multipart": {
@@ -459,8 +460,8 @@
         "schedule"
       ],
       "env": [],
-      "from": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\plugin.js",
-      "path": "F:\\yyw\\service\\node_modules\\_egg-multipart@2.10.1@egg-multipart",
+      "from": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\plugin.js",
+      "path": "F:\\ywm-service\\node_modules\\_egg-multipart@2.10.1@egg-multipart",
       "version": "2.10.1"
     },
     "development": {
@@ -474,8 +475,8 @@
       "env": [
         "local"
       ],
-      "from": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\plugin.js",
-      "path": "F:\\yyw\\service\\node_modules\\_egg-development@2.4.3@egg-development",
+      "from": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\plugin.js",
+      "path": "F:\\ywm-service\\node_modules\\_egg-development@2.4.3@egg-development",
       "version": "2.4.3"
     },
     "logrotator": {
@@ -487,8 +488,8 @@
       ],
       "optionalDependencies": [],
       "env": [],
-      "from": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\plugin.js",
-      "path": "F:\\yyw\\service\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator",
+      "from": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\plugin.js",
+      "path": "F:\\ywm-service\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator",
       "version": "3.1.0"
     },
     "static": {
@@ -498,8 +499,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\plugin.js",
-      "path": "F:\\yyw\\service\\node_modules\\_egg-static@2.2.0@egg-static",
+      "from": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\plugin.js",
+      "path": "F:\\ywm-service\\node_modules\\_egg-static@2.2.0@egg-static",
       "version": "2.2.0"
     },
     "view": {
@@ -509,8 +510,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\plugin.js",
-      "path": "F:\\yyw\\service\\node_modules\\_egg-view@2.1.2@egg-view",
+      "from": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\plugin.js",
+      "path": "F:\\ywm-service\\node_modules\\_egg-view@2.1.2@egg-view",
       "version": "2.1.2"
     },
     "io": {
@@ -522,8 +523,8 @@
       ],
       "optionalDependencies": [],
       "env": [],
-      "from": "F:\\yyw\\service\\config\\plugin.js",
-      "path": "F:\\yyw\\service\\node_modules\\_egg-socket.io@4.1.6@egg-socket.io",
+      "from": "F:\\ywm-service\\config\\plugin.js",
+      "path": "F:\\ywm-service\\node_modules\\_egg-socket.io@4.1.6@egg-socket.io",
       "version": "4.1.6"
     }
   }

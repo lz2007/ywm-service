@@ -19,8 +19,21 @@
       "GET"
     ],
     "paramNames": [],
-    "path": "/arch",
-    "regexp": "/^\\/arch(?:\\/(?=$))?$/",
+    "path": "/api/arch",
+    "regexp": "/^\\/api\\/arch(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
+    "path": "/api/cpu",
+    "regexp": "/^\\/api\\/cpu(?:\\/(?=$))?$/",
     "stack": [
       "wrappedController"
     ]

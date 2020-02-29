@@ -2,13 +2,13 @@
 
 const Controller = require("egg").Controller;
 
-class ArchController extends Controller {
+class CpuController extends Controller {
   async index() {
     const { ctx } = this;
-    const userInfo = await ctx.service.arch.find();
-    
+    const userInfo = await ctx.service.cpu.find();
+
     ctx.body = userInfo;
   }
 }
 
-module.exports = ArchController;
+module.exports = CpuController;

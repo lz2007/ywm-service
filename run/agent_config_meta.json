@@ -1,303 +1,304 @@
 {
-  "keys": "F:\\yyw\\service\\config\\config.default.js",
-  "middleware": "F:\\yyw\\service\\config\\config.default.js",
+  "keys": "F:\\ywm-service\\config\\config.default.js",
+  "middleware": "F:\\ywm-service\\config\\config.default.js",
   "session": {
-    "maxAge": "F:\\yyw\\service\\node_modules\\_egg-session@3.1.0@egg-session\\config\\config.default.js",
-    "key": "F:\\yyw\\service\\node_modules\\_egg-session@3.1.0@egg-session\\config\\config.default.js",
-    "httpOnly": "F:\\yyw\\service\\node_modules\\_egg-session@3.1.0@egg-session\\config\\config.default.js",
-    "encrypt": "F:\\yyw\\service\\node_modules\\_egg-session@3.1.0@egg-session\\config\\config.default.js"
+    "maxAge": "F:\\ywm-service\\node_modules\\_egg-session@3.1.0@egg-session\\config\\config.default.js",
+    "key": "F:\\ywm-service\\node_modules\\_egg-session@3.1.0@egg-session\\config\\config.default.js",
+    "httpOnly": "F:\\ywm-service\\node_modules\\_egg-session@3.1.0@egg-session\\config\\config.default.js",
+    "encrypt": "F:\\ywm-service\\node_modules\\_egg-session@3.1.0@egg-session\\config\\config.default.js"
   },
   "security": {
-    "domainWhiteList": "F:\\yyw\\service\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
-    "protocolWhiteList": "F:\\yyw\\service\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
-    "defaultMiddleware": "F:\\yyw\\service\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+    "domainWhiteList": "F:\\ywm-service\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+    "protocolWhiteList": "F:\\ywm-service\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+    "defaultMiddleware": "F:\\ywm-service\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
     "csrf": {
-      "enable": "F:\\yyw\\service\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
-      "type": "F:\\yyw\\service\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
-      "ignoreJSON": "F:\\yyw\\service\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
-      "useSession": "F:\\yyw\\service\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
-      "cookieName": "F:\\yyw\\service\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
-      "sessionName": "F:\\yyw\\service\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
-      "headerName": "F:\\yyw\\service\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
-      "bodyName": "F:\\yyw\\service\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
-      "queryName": "F:\\yyw\\service\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
-      "refererWhiteList": "F:\\yyw\\service\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
+      "enable": "F:\\ywm-service\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+      "type": "F:\\ywm-service\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+      "ignoreJSON": "F:\\ywm-service\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+      "useSession": "F:\\ywm-service\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+      "cookieName": "F:\\ywm-service\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+      "sessionName": "F:\\ywm-service\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+      "headerName": "F:\\ywm-service\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+      "bodyName": "F:\\ywm-service\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+      "queryName": "F:\\ywm-service\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+      "refererWhiteList": "F:\\ywm-service\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
     },
     "xframe": {
-      "enable": "F:\\yyw\\service\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
-      "value": "F:\\yyw\\service\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
+      "enable": "F:\\ywm-service\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+      "value": "F:\\ywm-service\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
     },
     "hsts": {
-      "enable": "F:\\yyw\\service\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.local.js",
-      "maxAge": "F:\\yyw\\service\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
-      "includeSubdomains": "F:\\yyw\\service\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
+      "enable": "F:\\ywm-service\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.local.js",
+      "maxAge": "F:\\ywm-service\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+      "includeSubdomains": "F:\\ywm-service\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
     },
     "dta": {
-      "enable": "F:\\yyw\\service\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
+      "enable": "F:\\ywm-service\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
     },
     "methodnoallow": {
-      "enable": "F:\\yyw\\service\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
+      "enable": "F:\\ywm-service\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
     },
     "noopen": {
-      "enable": "F:\\yyw\\service\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
+      "enable": "F:\\ywm-service\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
     },
     "nosniff": {
-      "enable": "F:\\yyw\\service\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
+      "enable": "F:\\ywm-service\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
     },
     "referrerPolicy": {
-      "enable": "F:\\yyw\\service\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
-      "value": "F:\\yyw\\service\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
+      "enable": "F:\\ywm-service\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+      "value": "F:\\ywm-service\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
     },
     "xssProtection": {
-      "enable": "F:\\yyw\\service\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
-      "value": "F:\\yyw\\service\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
+      "enable": "F:\\ywm-service\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+      "value": "F:\\ywm-service\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
     },
     "csp": {
-      "enable": "F:\\yyw\\service\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
-      "policy": "F:\\yyw\\service\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
+      "enable": "F:\\ywm-service\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+      "policy": "F:\\ywm-service\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
     },
     "ssrf": {
-      "ipBlackList": "F:\\yyw\\service\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
-      "checkAddress": "F:\\yyw\\service\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
+      "ipBlackList": "F:\\ywm-service\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+      "checkAddress": "F:\\ywm-service\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
     }
   },
   "helper": {
-    "shtml": "F:\\yyw\\service\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
+    "shtml": "F:\\ywm-service\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
   },
   "jsonp": {
-    "limit": "F:\\yyw\\service\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js",
-    "callback": "F:\\yyw\\service\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js",
-    "csrf": "F:\\yyw\\service\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js"
+    "limit": "F:\\ywm-service\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js",
+    "callback": "F:\\ywm-service\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js",
+    "csrf": "F:\\ywm-service\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js"
   },
   "onerror": {
-    "errorPageUrl": "F:\\yyw\\service\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js",
-    "appErrorFilter": "F:\\yyw\\service\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js",
-    "templatePath": "F:\\yyw\\service\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js"
+    "errorPageUrl": "F:\\ywm-service\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "F:\\ywm-service\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js",
+    "templatePath": "F:\\ywm-service\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js"
   },
   "i18n": {
-    "defaultLocale": "F:\\yyw\\service\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
-    "dirs": "F:\\yyw\\service\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
-    "queryField": "F:\\yyw\\service\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
-    "cookieField": "F:\\yyw\\service\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
-    "cookieDomain": "F:\\yyw\\service\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
-    "cookieMaxAge": "F:\\yyw\\service\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js"
+    "defaultLocale": "F:\\ywm-service\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "dirs": "F:\\ywm-service\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "queryField": "F:\\ywm-service\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieField": "F:\\ywm-service\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieDomain": "F:\\ywm-service\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "F:\\ywm-service\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js"
   },
   "watcher": {
-    "type": "F:\\yyw\\service\\node_modules\\_egg-watcher@3.1.0@egg-watcher\\config\\config.local.js",
+    "type": "F:\\ywm-service\\node_modules\\_egg-watcher@3.1.0@egg-watcher\\config\\config.local.js",
     "eventSources": {
-      "default": "F:\\yyw\\service\\node_modules\\_egg-watcher@3.1.0@egg-watcher\\config\\config.default.js",
-      "development": "F:\\yyw\\service\\node_modules\\_egg-watcher@3.1.0@egg-watcher\\config\\config.default.js"
+      "default": "F:\\ywm-service\\node_modules\\_egg-watcher@3.1.0@egg-watcher\\config\\config.default.js",
+      "development": "F:\\ywm-service\\node_modules\\_egg-watcher@3.1.0@egg-watcher\\config\\config.default.js"
     }
   },
   "customLogger": {
     "scheduleLogger": {
-      "consoleLevel": "F:\\yyw\\service\\node_modules\\_egg-schedule@3.6.4@egg-schedule\\config\\config.default.js",
-      "file": "F:\\yyw\\service\\node_modules\\_egg-schedule@3.6.4@egg-schedule\\config\\config.default.js"
+      "consoleLevel": "F:\\ywm-service\\node_modules\\_egg-schedule@3.6.4@egg-schedule\\config\\config.default.js",
+      "file": "F:\\ywm-service\\node_modules\\_egg-schedule@3.6.4@egg-schedule\\config\\config.default.js"
     }
   },
   "schedule": {
-    "directory": "F:\\yyw\\service\\node_modules\\_egg-schedule@3.6.4@egg-schedule\\config\\config.default.js"
+    "directory": "F:\\ywm-service\\node_modules\\_egg-schedule@3.6.4@egg-schedule\\config\\config.default.js"
   },
   "multipart": {
-    "mode": "F:\\yyw\\service\\node_modules\\_egg-multipart@2.10.1@egg-multipart\\config\\config.default.js",
-    "autoFields": "F:\\yyw\\service\\node_modules\\_egg-multipart@2.10.1@egg-multipart\\config\\config.default.js",
-    "defaultCharset": "F:\\yyw\\service\\node_modules\\_egg-multipart@2.10.1@egg-multipart\\config\\config.default.js",
-    "fieldNameSize": "F:\\yyw\\service\\node_modules\\_egg-multipart@2.10.1@egg-multipart\\config\\config.default.js",
-    "fieldSize": "F:\\yyw\\service\\node_modules\\_egg-multipart@2.10.1@egg-multipart\\config\\config.default.js",
-    "fields": "F:\\yyw\\service\\node_modules\\_egg-multipart@2.10.1@egg-multipart\\config\\config.default.js",
-    "fileSize": "F:\\yyw\\service\\node_modules\\_egg-multipart@2.10.1@egg-multipart\\config\\config.default.js",
-    "files": "F:\\yyw\\service\\node_modules\\_egg-multipart@2.10.1@egg-multipart\\config\\config.default.js",
-    "fileExtensions": "F:\\yyw\\service\\node_modules\\_egg-multipart@2.10.1@egg-multipart\\config\\config.default.js",
-    "whitelist": "F:\\yyw\\service\\node_modules\\_egg-multipart@2.10.1@egg-multipart\\config\\config.default.js",
-    "tmpdir": "F:\\yyw\\service\\node_modules\\_egg-multipart@2.10.1@egg-multipart\\config\\config.default.js",
+    "mode": "F:\\ywm-service\\node_modules\\_egg-multipart@2.10.1@egg-multipart\\config\\config.default.js",
+    "autoFields": "F:\\ywm-service\\node_modules\\_egg-multipart@2.10.1@egg-multipart\\config\\config.default.js",
+    "defaultCharset": "F:\\ywm-service\\node_modules\\_egg-multipart@2.10.1@egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "F:\\ywm-service\\node_modules\\_egg-multipart@2.10.1@egg-multipart\\config\\config.default.js",
+    "fieldSize": "F:\\ywm-service\\node_modules\\_egg-multipart@2.10.1@egg-multipart\\config\\config.default.js",
+    "fields": "F:\\ywm-service\\node_modules\\_egg-multipart@2.10.1@egg-multipart\\config\\config.default.js",
+    "fileSize": "F:\\ywm-service\\node_modules\\_egg-multipart@2.10.1@egg-multipart\\config\\config.default.js",
+    "files": "F:\\ywm-service\\node_modules\\_egg-multipart@2.10.1@egg-multipart\\config\\config.default.js",
+    "fileExtensions": "F:\\ywm-service\\node_modules\\_egg-multipart@2.10.1@egg-multipart\\config\\config.default.js",
+    "whitelist": "F:\\ywm-service\\node_modules\\_egg-multipart@2.10.1@egg-multipart\\config\\config.default.js",
+    "tmpdir": "F:\\ywm-service\\node_modules\\_egg-multipart@2.10.1@egg-multipart\\config\\config.default.js",
     "cleanSchedule": {
-      "cron": "F:\\yyw\\service\\node_modules\\_egg-multipart@2.10.1@egg-multipart\\config\\config.default.js"
+      "cron": "F:\\ywm-service\\node_modules\\_egg-multipart@2.10.1@egg-multipart\\config\\config.default.js"
     }
   },
   "development": {
-    "watchDirs": "F:\\yyw\\service\\node_modules\\_egg-development@2.4.3@egg-development\\config\\config.default.js",
-    "ignoreDirs": "F:\\yyw\\service\\node_modules\\_egg-development@2.4.3@egg-development\\config\\config.default.js",
-    "fastReady": "F:\\yyw\\service\\node_modules\\_egg-development@2.4.3@egg-development\\config\\config.default.js",
-    "reloadOnDebug": "F:\\yyw\\service\\node_modules\\_egg-development@2.4.3@egg-development\\config\\config.default.js",
-    "overrideDefault": "F:\\yyw\\service\\node_modules\\_egg-development@2.4.3@egg-development\\config\\config.default.js"
+    "watchDirs": "F:\\ywm-service\\node_modules\\_egg-development@2.4.3@egg-development\\config\\config.default.js",
+    "ignoreDirs": "F:\\ywm-service\\node_modules\\_egg-development@2.4.3@egg-development\\config\\config.default.js",
+    "fastReady": "F:\\ywm-service\\node_modules\\_egg-development@2.4.3@egg-development\\config\\config.default.js",
+    "reloadOnDebug": "F:\\ywm-service\\node_modules\\_egg-development@2.4.3@egg-development\\config\\config.default.js",
+    "overrideDefault": "F:\\ywm-service\\node_modules\\_egg-development@2.4.3@egg-development\\config\\config.default.js"
   },
   "logrotator": {
-    "filesRotateByHour": "F:\\yyw\\service\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
-    "hourDelimiter": "F:\\yyw\\service\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
-    "filesRotateBySize": "F:\\yyw\\service\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
-    "maxFileSize": "F:\\yyw\\service\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
-    "maxFiles": "F:\\yyw\\service\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
-    "rotateDuration": "F:\\yyw\\service\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
-    "maxDays": "F:\\yyw\\service\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js"
+    "filesRotateByHour": "F:\\ywm-service\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "F:\\ywm-service\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "F:\\ywm-service\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "F:\\ywm-service\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxFiles": "F:\\ywm-service\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "F:\\ywm-service\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxDays": "F:\\ywm-service\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js"
   },
   "static": {
-    "prefix": "F:\\yyw\\service\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
-    "dir": "F:\\yyw\\service\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
-    "dynamic": "F:\\yyw\\service\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
-    "preload": "F:\\yyw\\service\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
-    "buffer": "F:\\yyw\\service\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
-    "maxFiles": "F:\\yyw\\service\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js"
+    "prefix": "F:\\ywm-service\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "dir": "F:\\ywm-service\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "dynamic": "F:\\ywm-service\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "preload": "F:\\ywm-service\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "buffer": "F:\\ywm-service\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "maxFiles": "F:\\ywm-service\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js"
   },
   "view": {
-    "root": "F:\\yyw\\service\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js",
-    "cache": "F:\\yyw\\service\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.local.js",
-    "defaultExtension": "F:\\yyw\\service\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js",
-    "defaultViewEngine": "F:\\yyw\\service\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js",
-    "mapping": "F:\\yyw\\service\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js"
+    "root": "F:\\ywm-service\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js",
+    "cache": "F:\\ywm-service\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.local.js",
+    "defaultExtension": "F:\\ywm-service\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js",
+    "defaultViewEngine": "F:\\ywm-service\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js",
+    "mapping": "F:\\ywm-service\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js"
   },
   "io": {
-    "init": "F:\\yyw\\service\\node_modules\\_egg-socket.io@4.1.6@egg-socket.io\\config\\config.default.js",
+    "init": "F:\\ywm-service\\node_modules\\_egg-socket.io@4.1.6@egg-socket.io\\config\\config.default.js",
     "namespace": {
       "/": {
-        "connectionMiddleware": "F:\\yyw\\service\\node_modules\\_egg-socket.io@4.1.6@egg-socket.io\\config\\config.default.js",
-        "packetMiddleware": "F:\\yyw\\service\\node_modules\\_egg-socket.io@4.1.6@egg-socket.io\\config\\config.default.js"
+        "connectionMiddleware": "F:\\ywm-service\\node_modules\\_egg-socket.io@4.1.6@egg-socket.io\\config\\config.default.js",
+        "packetMiddleware": "F:\\ywm-service\\node_modules\\_egg-socket.io@4.1.6@egg-socket.io\\config\\config.default.js"
       }
     }
   },
-  "env": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-  "name": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-  "cookies": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-  "proxy": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-  "maxIpsCount": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-  "maxProxyCount": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-  "protocolHeaders": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-  "ipHeaders": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-  "hostHeaders": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+  "env": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+  "name": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+  "cookies": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+  "proxy": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+  "maxIpsCount": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+  "maxProxyCount": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+  "protocolHeaders": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+  "ipHeaders": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+  "hostHeaders": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
   "pkg": {
-    "name": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-    "version": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-    "description": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-    "private": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "name": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "version": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "description": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "private": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
     "egg": {
-      "declarations": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+      "declarations": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
     },
     "dependencies": {
-      "egg": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-      "egg-scripts": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-      "egg-socket.io": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+      "egg": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "egg-scripts": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "egg-socket.io": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "os-utils": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
     },
     "devDependencies": {
-      "autod": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-      "autod-egg": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-      "egg-bin": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-      "egg-ci": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-      "egg-mock": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-      "eslint": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-      "eslint-config-egg": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+      "autod": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "autod-egg": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "egg-bin": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "egg-ci": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "egg-mock": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "eslint": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "eslint-config-egg": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
     },
     "engines": {
-      "node": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+      "node": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
     },
     "scripts": {
-      "start": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-      "stop": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-      "dev": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-      "debug": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-      "test": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-      "test-local": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-      "cov": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-      "lint": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-      "ci": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-      "autod": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+      "start": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "stop": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "dev": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "debug": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "test": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "test-local": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "cov": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "lint": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "ci": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "autod": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
     },
     "ci": {
-      "version": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+      "version": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
     },
     "repository": {
-      "type": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-      "url": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+      "type": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "url": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
     },
-    "author": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-    "license": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+    "author": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "license": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
   },
-  "baseDir": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-  "HOME": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-  "rundir": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+  "baseDir": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+  "HOME": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+  "rundir": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
   "dump": {
-    "ignore": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+    "ignore": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
   },
   "confusedConfigurations": {
-    "bodyparser": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-    "notFound": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-    "sitefile": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-    "middlewares": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-    "httpClient": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+    "bodyparser": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "notFound": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "sitefile": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "middlewares": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "httpClient": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
   },
   "notfound": {
-    "pageUrl": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+    "pageUrl": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
   },
   "siteFile": {
-    "/favicon.ico": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+    "/favicon.ico": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
   },
   "bodyParser": {
-    "enable": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-    "encoding": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-    "formLimit": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-    "jsonLimit": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-    "textLimit": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-    "strict": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "enable": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "encoding": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "formLimit": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "jsonLimit": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "textLimit": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "strict": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
     "queryString": {
-      "arrayLimit": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-      "depth": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-      "parameterLimit": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+      "arrayLimit": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "depth": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "parameterLimit": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
     },
-    "onerror": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+    "onerror": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
   },
   "logger": {
-    "dir": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-    "encoding": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-    "env": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-    "level": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-    "consoleLevel": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-    "disableConsoleAfterReady": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-    "outputJSON": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-    "buffer": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-    "appLogName": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-    "coreLogName": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-    "agentLogName": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-    "errorLogName": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "dir": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "encoding": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "env": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "level": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "consoleLevel": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "outputJSON": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "buffer": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "appLogName": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "coreLogName": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "agentLogName": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "errorLogName": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
     "coreLogger": {
-      "consoleLevel": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.local.js"
+      "consoleLevel": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.local.js"
     },
-    "allowDebugAtProd": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+    "allowDebugAtProd": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
   },
   "httpclient": {
-    "enableDNSCache": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-    "dnsCacheLookupInterval": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-    "dnsCacheMaxLength": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "enableDNSCache": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
     "request": {
-      "timeout": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+      "timeout": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
     },
     "httpAgent": {
-      "keepAlive": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-      "freeSocketTimeout": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-      "maxSockets": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-      "maxFreeSockets": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+      "keepAlive": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "freeSocketTimeout": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "maxSockets": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "maxFreeSockets": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
     },
     "httpsAgent": {
-      "keepAlive": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-      "freeSocketTimeout": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-      "maxSockets": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-      "maxFreeSockets": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+      "keepAlive": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "freeSocketTimeout": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "maxSockets": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "maxFreeSockets": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
     }
   },
   "meta": {
-    "enable": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-    "logging": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+    "enable": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "logging": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
   },
-  "coreMiddleware": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-  "workerStartTimeout": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-  "serverTimeout": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+  "coreMiddleware": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+  "workerStartTimeout": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+  "serverTimeout": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
   "cluster": {
     "listen": {
-      "path": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-      "port": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-      "hostname": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+      "path": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "port": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "hostname": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
     }
   },
   "clusterClient": {
-    "maxWaitTime": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-    "responseTimeout": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+    "maxWaitTime": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "responseTimeout": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
   },
-  "onClientError": "F:\\yyw\\service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+  "onClientError": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
 }
