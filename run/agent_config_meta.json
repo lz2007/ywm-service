@@ -175,7 +175,8 @@
       "egg": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
       "egg-scripts": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
       "egg-socket.io": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
-      "os-utils": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+      "os-utils": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "systeminformation": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
     },
     "devDependencies": {
       "autod": "F:\\ywm-service\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",

@@ -212,7 +212,8 @@
         "egg": "^2.15.1",
         "egg-scripts": "^2.11.0",
         "egg-socket.io": "^4.1.6",
-        "os-utils": "^0.0.14"
+        "os-utils": "^0.0.14",
+        "systeminformation": "^4.22.3"
       },
       "devDependencies": {
         "autod": "^3.0.1",

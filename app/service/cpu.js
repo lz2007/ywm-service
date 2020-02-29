@@ -3,6 +3,7 @@
 const os = require("os");
 const Service = require("egg").Service;
 const osUtils = require("os-utils");
+const si = require("systeminformation");
 
 let interval = -1;
 let currCPU = 0;
@@ -36,7 +37,7 @@ function start() {
       totalMem: totalMem.toFixed(2) + "G",
       usedMem: (totalMem - freeMem).toFixed(2) + "G",
       MemUsage: (((totalMem - freeMem) / totalMem) * 100.0).toFixed(2) + "%",
-      time: new Date().Format("hh:mm")
+      time: new Date().Format("hh:mm:ss")
     };
     // io.sockets.emit("systemUpdate",data)s
     console.log(data);
@@ -56,7 +57,11 @@ function updateCPU() {
 
 class CpuService extends Service {
   async find() {
-    return start();
+  //  await si.cpu()
+  //     .then(data => data);
+
+    // return start();
+    return await si.currentLoad().then(data => data);
   }
 }
 
